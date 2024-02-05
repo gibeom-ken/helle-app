@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-pip install pygwalker
+conda install -c conda-forge pygwalker
 import pygwalker as pyg
 
 
